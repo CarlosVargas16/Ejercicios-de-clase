@@ -14,12 +14,12 @@ void main()
   scanf("%d", &num2);
 
   if(num1 % num2 == 0)
-{
-  printf("El numero es divisible: \n");
-}
-else
-{
-  printf("El numero no es divisible: \n");
-}
+  {
+    printf("El numero es divisible: \n");
+  }
+  else
+  {
+    printf("El numero no es divisible: \n");
+  }
 }
   
